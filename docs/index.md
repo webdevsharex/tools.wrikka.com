@@ -2,8 +2,8 @@
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
 hero:
-  name: "bookmark.wrikka"
-  tagline: Web Bookmarks แหล่งรวมลิงค์
+  name: "tools.wrikka"
+  tagline: แหล่งรวมลิงค์ แหล่งรวมเครื่องมือ
   image:
     src: "https://res.cloudinary.com/dc54nmhwq/image/upload/f_auto/v1704583958/wrikka-obsidian/uuqchwgcxorcx0eqe7qp.webp"
     alt: tools.wrikka
