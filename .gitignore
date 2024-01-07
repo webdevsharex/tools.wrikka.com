@@ -1,0 +1,20 @@
+
+# node
+node_modules
+
+pnpm-lock.yaml
+
+# vitepress
+cache
+dist
+docs/private
+
+# docs
+docs/hide
+
+# global files
+TODO.md
+.obsidian
+
+
+

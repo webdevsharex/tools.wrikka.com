@@ -1,0 +1,14 @@
+{
+	"name": "tools.wrikka.com",
+	"scripts": {
+		"dev": "vitepress dev docs",
+		"build": "vitepress build docs",
+		"preview": "vitepress preview docs",
+		"format": "dprint fmt"
+	},
+	"devDependencies": {
+		"dprint": "^0.45.0",
+		"markdown-it-mathjax3": "^4.3.2",
+		"vitepress": "1.0.0-rc.31"
+	}
+}
